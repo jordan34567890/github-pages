@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Money Buckets by Jordan Haney</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: url('https://wallpaperaccess.com/full/333770.jpg') no-repeat center center fixed;
+      background-size: cover;
+      color: #333;
+    }
+    header {
+      background-color: #006400; /* Dark Green */
+      color: white;
+      padding: 20px 40px;
+      text-align: center;
+    }
+    nav {
+      background-color: #006400; /* Dark Green */
+      padding: 10px 40px;
+      text-align: center;
+    }
+    nav a {
+      color: white;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      padding: 60px 40px;
+      text-align: center;
+      background-color: rgba(236, 240, 241, 0.8);
+    }
+    .hero h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    .content {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+      background-color: rgba(255, 255, 255, 0.9);
+      border-radius: 10px;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    footer {
+      background-color: #006400; /* Dark Green */
+      color: white;
+      text-align: center;
+      padding: 20px 40px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Money Buckets</h1>
+  <p>Smart Financial Planning with Jordan Haney</p>
+</header>
+
+<nav>
+  <a href="#about">About</a>
+  <a href="#buckets">Money Buckets</a>
+  <a href="#learn">Learn More</a>
+  <a href="#intro">Introduction to Finance</a>
+</nav>
+
+<section class="hero">
+  <h1>Welcome to Financial Clarity</h1>
+  <p>Learn to manage your money using the proven "Money Buckets" method and build a future of financial confidence.</p>
+</section>
+
+<div class="content">
+  <div id="about" class="section">
+    <h2>About Jordan Haney</h2>
+    <p>Hi, I'm Jordan Haney. After over a decade in the finance world, I discovered a simple truth: most people aren’t taught how to manage money. I created this platform to help change that. My mission is to teach easy-to-follow systems that help you take control of your finances and live stress-free.</p>
+  </div>
+
+  <div id="intro" class="section">
+    <h2>Introduction to Finance</h2>
+    <p><strong>Welcome to Financial Freedom: Building a Strong Foundation for Your Future</strong></p>
+    <p>Understanding your finances is one of the most important steps you can take toward securing your future. Whether you’re just starting out in your financial journey or looking to refine your money management skills, the basics of finance provide the foundation for long-term success.</p>
+
+    <p><strong>What is Personal Finance?</strong></p>
+    <p>Personal finance involves the management of your money, savings, and investments in order to meet your financial goals. This encompasses everything from budgeting your monthly expenses to making smart decisions about saving, investing, and planning for retirement. At its core, personal finance is about making your money work for you so that you can live comfortably now, while also preparing for a secure future.</p>
+
+    <p><strong>The Basics of Managing Your Money</strong></p>
+    <p>Successful financial management begins with understanding your income and expenses. A solid budgeting system is key to keeping track of your money and ensuring you live within your means. One popular strategy is the 50/30/20 rule, which helps divide your income into three categories: essentials (50%), discretionary spending (30%), and savings (20%). By following a clear budgeting system, you can prevent overspending and start saving for your future, even when living paycheck to paycheck.</p>
+
+    <p><strong>Why Saving is Important for the Future</strong></p>
+    <p>Saving isn’t just about putting money aside for rainy days—it’s a fundamental aspect of ensuring your financial future. There are several key reasons why saving is crucial:</p>
+    <ul>
+      <li><strong>Emergency Preparedness:</strong> Life is unpredictable, and an emergency fund is your financial safety net. Whether it’s a sudden job loss, medical emergency, or unexpected car repair, having savings set aside can give you peace of mind and prevent financial stress in difficult times.</li>
+      <li><strong>Achieving Your Financial Goals:</strong> Saving allows you to work toward significant life milestones like buying a house, traveling, or starting a business. By setting aside a portion of your income, you can make your goals a reality without relying on loans or credit cards.</li>
+      <li><strong>Retirement Security:</strong> The earlier you begin saving for retirement, the more you’ll benefit from compound interest—where your investments earn returns, and those returns themselves earn interest. Saving early and consistently for retirement ensures that you can live comfortably later in life without relying solely on Social Security or pensions.</li>
+      <li><strong>Avoiding Debt:</strong> The habit of saving can help you avoid the trap of relying on credit cards or loans to cover expenses. By building a savings cushion, you’ll have funds available to cover your needs without having to borrow money.</li>
+    </ul>
+
+    <p><strong>Building Good Financial Habits</strong></p>
+    <p>Developing strong financial habits is the first step toward a prosperous future. Start by setting realistic savings goals and gradually increasing the amount you set aside each month. Automating your savings, either by setting up automatic transfers to your savings account or investing in retirement accounts, ensures that you're consistently building wealth. Remember, saving is a marathon, not a sprint. The key is to start as early as possible, no matter how small, and make it a regular part of your financial routine.</p>
+
+    <p><strong>Get Started Today</strong></p>
+    <p>The sooner you begin focusing on your finances, the better prepared you’ll be to enjoy the life you want and deserve. Learn more about budgeting, investing, and growing your wealth with our resources and tools—designed to guide you every step of the way to financial freedom.</p>
+  </div>
+
+  <div id="buckets" class="section">
+    <h2>What Are Money Buckets?</h2>
+    <p><strong>Understanding the Money Bucket System: A Practical Approach to Saving and Spending</strong></p>
+    <p>The money bucket system is a straightforward yet powerful way to take control of your personal finances. It’s based on the idea of dividing your income into specific categories—“buckets”—each serving a different purpose, such as covering essentials, saving for the future, or funding lifestyle choices. This method helps you track where your money goes, set clear goals, and avoid the stress of living paycheck to paycheck. At its core, the bucket system is all about planning, balance, and making intentional choices with your money.</p>
+    <p>One of the most common starting points for this system is the 50/30/20 rule. This rule suggests dividing your after-tax income into three major categories: 50% for needs, 30% for wants, and 20% for savings and debt repayment. The “needs” bucket includes essential expenses you can't live without, such as housing, utilities, groceries, insurance, transportation, and minimum debt payments. These are the bills that must be paid to keep your life running smoothly. Keeping these costs within 50% of your income ensures you're not overextending yourself on the basics.</p>
+    <p>The “wants” bucket, which takes up 30% of your income, covers all the non-essentials that make life enjoyable—things like dining out, entertainment, hobbies, vacations, subscriptions, and shopping for non-necessity items. While these are not vital for survival, they play an important role in maintaining your mental health and quality of life. The key here is moderation. By capping lifestyle spending at 30%, you can enjoy your money without sabotaging your financial future.</p>
+    <p>The remaining 20% is dedicated to savings and financial goals. This includes building an emergency fund, contributing to retirement accounts, investing, or paying down extra debt beyond the minimum payments. Over time, this bucket becomes your safety net and launchpad for future opportunities. Financial experts often recommend having at least three to six months of living expenses saved in an emergency fund before turning your full attention to investments or large purchases.</p>
+    <p>Of course, the percentages can be adjusted based on your income, lifestyle, or goals. For instance, someone with higher earnings and low fixed costs might increase their savings to 30–40%, while someone in a high-cost area may need to allocate a larger chunk to housing. You can even create sub-buckets within each category—like saving for a vacation, a new car, or home renovations—so your financial goals are always front and center.</p>
+    <p>The beauty of the bucket system lies in its simplicity and flexibility. It provides a clear framework for money management without requiring a complex budget. Whether you use envelopes, bank accounts, spreadsheets, or apps, the principle stays the same: give every dollar a purpose. When your income is organized into clear categories, you gain a sense of control and confidence that leads to smarter decisions, less stress, and more financial freedom in the long run.</p>
+  </div>
+
+  <div id="learn" class="section">
+    <h2>Start Learning Today</h2>
+    <p>Whether you're just starting your financial journey or looking to improve your current strategy, our resources are designed to guide you step-by-step.</p>
+    <p><a href="https://www.bing.com/images/search?view=detailV2&ccid=IRPMkGJq&id=632F51759D47FF6091E938FD3DF20B0B3F7A08E9&thid=OIP.IRPMkGJq0g_j2NO_C-5ASgHaEK&mediaurl=https%3A%2F%2Fcdn.gobankingrates.com%2Fwp-content%2Fuploads%2F2018%2F01%2F180126_gbr_budgetpiechart_1920x1080.jpg&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.2113cc90626ad20fe3d8d3bf0bee404a%3Frik%3D6Qh6PwsL8j39OA%26pid%3DImgRaw%26r%3D0&exph=1081&expw=1921&q=finacial+general+saving+percent&simid=608047862740240347&FORM=IRPRST&ck=F2843F21ADDF3599ABE86B5A83E9EF74&selectedIndex=2&itb=0&cw=1721&ch=866&ajaxhist=0&ajaxserp=0" target="_blank">View this helpful financial budget chart</a></p>
+  </div>
+</div>
+
+<footer>
+  <p>&copy; 2025 Money Buckets. Created by Jordan Haney.</p>
+</footer>
+
+</body>
+</html>
